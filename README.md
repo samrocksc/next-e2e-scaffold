@@ -1,2 +1,3 @@
-# next-e2e-scaffold
-A scaffold for a next.js app w/e2e cypress
+# Readme
+
+This is a simple UI kit for setting up a next package with e2e and Jest testing
